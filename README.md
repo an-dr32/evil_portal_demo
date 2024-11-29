@@ -1,5 +1,4 @@
-# evil_portal_demo
-# Evil portal demonstration for Red Team Barranquilla for HackTheBox
+# Evil portal demonstration made in Red Team Barranquilla Meetup for HackTheBox
 
 What's the difference between other Evil Portals, and ours, you say? 
 From a better UI to a better UX, our Evil portal not only looks better, but feels better, introducing a new feature where our EP will not restart the website once the user has inputed their info, but it'll show an error message, giving it a nice, smooth and crispy feel.
