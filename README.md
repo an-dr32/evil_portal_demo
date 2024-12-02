@@ -8,3 +8,5 @@ To change the logo go to https://webutility.io/image-to-svg-converter, introduce
 To change the site's colors find the tag ":root{}" in <styles> and modify accordingly.
 
 If you want to change the checkbox color, go to https://codepen.io/sosuke/pen/Pjoqqp and enter your hexcode. Then just copy, and paste.
+
+** Sponsored by: https://fundacioncodigoabierto.com/ **
